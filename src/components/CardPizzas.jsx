@@ -35,7 +35,7 @@ const CardPizzas = () => {
               Más información
             </Button>
             <Button
-              variant="primary" 
+              variant="success" 
               onClick={() => 
                 addToCart(pizza)
               }
